@@ -1,0 +1,150 @@
+
+/*  Contact Us */
+p{
+    margin: 0;
+}
+
+#navfont{
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+.imgtextContact{
+    position: absolute;
+    right: 72%; /* Adjust horizontal position of the text */
+    bottom: 40%;
+    background-color:transparent /* Background color with opacity */
+}
+
+#h1onsld{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+#preonsld{
+    color: white;
+    font-size: 20px;
+}
+#imgonsld{
+    margin-left: 50px;
+}
+
+.twocol1{
+    background-color: #e2e7e6;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Cbox{
+    height: 570px;
+    /*border: 2px solid black;*/
+    width: 50%;
+    background-color: #e2e7e6;
+    padding: 20px 0px 15px;
+}
+
+.box-content{
+    padding-left:1rem ;
+    padding-right:1rem ;
+}
+
+/* form */
+input[type=text], select {
+    width: 100%;
+    padding: 5px 20px;
+    margin: 12px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=Email], select {
+    width: 100%;
+    padding: 5px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=textarea], select {
+    width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 100px;
+    background-color: #BA90C6;
+    color: white;
+    padding: 5px 20px;
+    margin-left:200px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+#fordivform{
+    border-radius: 5px;
+    background-color: #F7ECDE;
+    padding: 20px;
+}
+
+.formpad{
+    margin-top: 10px;
+}
+
+#Cfonh4{
+    color: maroon;
+    font-family: 'Lugrasimo', cursive;
+    margin-left: 40px;
+}
+
+#Cfonh41{
+    color: maroon;
+    font-family: 'Lugrasimo', cursive;
+    margin-left: 200px;
+}
+
+.jumtron{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#jumh1 {
+    font-size: 30px;
+    font-weight: bold;
+    color:#C0B236;
+    text-align: center;
+    font-family: 'Lumanosimo', cursive;
+}
+
+.Cfooter{
+    background-color: #27323d;
+    text-align: center;
+    color: white;
+    height: 100px;
+}
+
+#icon{
+    height: 40px;
+    width: 40px;
+    margin: 20px 10px 10px 10px;
+    border-radius: 20%;
+}
+
+#develop{
+    margin-top: 10px;
+    font-size: 8px;
+    font-family: 'Great Vibes', cursive;
+    color: white;
+}

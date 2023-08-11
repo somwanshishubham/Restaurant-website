@@ -1,0 +1,80 @@
+/** Menu */
+#navfont{
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+}
+.image-container{
+  position: relative;
+  display: block;
+}
+
+.image-text {
+  position: absolute;
+  bottom: 20px; /* Adjust vertical position of the text */
+  left: 600px; /* Adjust horizontal position of the text */
+  background-color:transparent /* Background color with opacity */
+  
+}
+
+.image-text h3 {
+  margin: 0;
+  font-size: 30px;
+  font-weight: bold;
+  color:#d02323;
+  font-family: 'Lumanosimo', cursive;
+}
+
+.image-text p {
+  margin: 0;
+  font-size: 20px;
+  background-color: transparent; /* Remove the background color */
+  color: #FFC95F;
+  font-family: 'Lumanosimo', cursive;
+}
+
+#menucenter{
+  text-align: center;
+}
+
+.jumbotron{
+  height: 220px;
+}
+
+#jummarpadn{
+  position: relative;
+  bottom: 50px;
+}
+
+.jumh{
+  position: relative;
+  left: 450px;
+  color: rgb(153, 5, 5);
+  font-family: 'Lugrasimo', cursive;
+}
+
+.jump{
+  color:black;
+  font-family: 'Lugrasimo', cursive;
+}
+
+
+.Cfooter{
+  background-color: #27323d;
+  text-align: center;
+  color: white;
+  height: 100px;
+}
+
+#icon{
+  height: 40px;
+  width: 40px;
+  margin: 20px 10px 10px 10px;
+  border-radius: 20%;
+}
+
+#develop{
+  margin-top: 10px;
+  font-size: 8px;
+  font-family: 'Great Vibes', cursive;
+  color: white;
+}

@@ -1,0 +1,79 @@
+  /* About */
+
+#navfont{
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+.image-container{
+    position: relative;
+    display: block;
+}
+
+.image-text {
+    position: absolute;
+    bottom: 20px; /* Adjust vertical position of the text */
+    left: 550px; /* Adjust horizontal position of the text */
+    background-color:transparent /* Background color with opacity */
+    
+  }
+.image-text h1 {
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+    color:#ffffff;
+    font-family: 'Lumanosimo', cursive;
+    margin-left:100px;
+  }
+
+.image-text pre {
+    margin: 0;
+    font-size: 20px;
+    background-color: transparent; /* Remove the background color */
+    color: #FFC95F;
+    font-family: 'Lumanosimo', cursive;
+    margin-left:100px;
+  }
+.twocol{
+    display: flex;
+    justify-content:space-evenly;
+    height: 400px;
+    margin: 10px;
+}
+
+#imgmar{
+    margin-top: 20px;
+}
+
+#h2mar{
+    margin-left: 50px;
+    margin-top: 70px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#fontdiv{
+    font-family:'Times New Roman', Times, serif;
+}
+
+#h2mar1{
+    margin-right: 30px;
+    margin-top: 70px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#h2mar2{
+    margin-left: 50px;
+    margin-top: 70px;
+    font-family: 'Poppins', sans-serif;
+}
+#heightr{
+    height: 350px;
+}
+
+.Afooter{
+    background-color: #27323d;
+    text-align: center;
+    color: white;
+}
+#footh3{
+    font-family: 'Edu SA Beginner', cursive;
+}
